@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FadyDkhil
 - 👀 I’m interested in Game Developement and Back-end mobile developement
-- 🌱 I’m currently learning Kotlin & C#
+- 🌱 I’m currently focused on improving ExpressJS & React-Native
 - 💞️ I’m looking to collaborate on ...
 - 📫 fady.dekhil@gmail.com
 
