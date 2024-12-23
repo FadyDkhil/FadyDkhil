@@ -24,17 +24,17 @@ I'm a **Full-Stack Engineer** with a strong focus on backend development, levera
 - **Role**: FullStack Developer  
 - **Technologies**: Next.js, Supabase, Express.js, TypeScript, PostgreSQL  
 
-### 2. **Knowlepsy**  
+### 2. **Knowlepsy (Mobile)**  
 - **Description**: An epilepsy management app with AI-driven seizure forecasting and real-time alerts.  
 - **Role**: Frontend Developer  
 - **Technologies**: React Native, TypeScript  
 
-### 3. **CoVoizz**  
+### 3. **CoVoizz (Mobile)**  
 - **Description**: A car-sharing app facilitating ridesharing in France.  
 - **Role**: Backend Developer  
 - **Technologies**: Express.js, TypeScript, PostgreSQL, Firebase, Stripe  
 
-### 4. **One Take**  
+### 4. **One Take (Mobile)**  
 - **Description**: A social media app for sharing photo-based moments in real time.  
 - **Role**: Backend Developer  
 - **Technologies**: Express.js, TypeScript, PostgreSQL, Firebase  
