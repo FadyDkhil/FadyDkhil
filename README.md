@@ -6,19 +6,19 @@ I'm a **Full-Stack Engineer** with a strong focus on backend development, levera
 - 🚀 **Interests**: Full-Stack Engineering with a specialization in Backend Development  
 - 🌱 **What I’m Best At**:  
   - **Backend**: Advanced patterns in Express.js  
-  - **Frontend**: React Native, Flutter  
+  - **Frontend**: React Native, Next
 - 💡 **Looking to Collaborate On**: Full-stack projects, API development, and scalable mobile applications  
 - 📧 **Contact Me**: [fady.dekhil@gmail.com](mailto:fady.dekhil@gmail.com)  
 
 ## 🛠️ Tech Stack  
 - **Languages**: JavaScript, TypeScript, Swift  
 - **Backend**: Node.js, Express.js, Nest.js, Supabase, PostgreSQL, Firebase  
-- **Frontend/Mobile**: React, React Native, Flutter  
+- **Frontend/Mobile**: Next, React, React Native, Flutter  
 - **DevOps**: Docker, Render  
 - **Payments**: Stripe Integration
 - **Databases**: PostgreSQL, MongoDB
 
-## 🏆 Latests Featured Projects  
+## 🏆 Latests Featured Projects of 2024
 ### 1. **Zawaji (Web)**  
 - **Description**: A platform to help Muslims find life partners while adhering to Islamic guidelines.  
 - **Role**: FullStack Developer  
