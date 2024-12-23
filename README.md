@@ -4,8 +4,8 @@ I'm a **Full-Stack Engineer** with a strong focus on backend development, levera
 
 ## 🌟 About Me  
 - 🚀 **Interests**: Full-Stack Engineering with a specialization in Backend Development  
-- 🌱 **Currently Improving**:  
-  - **Backend**: Advanced patterns in Express.js, Supabase  
+- 🌱 **What I’m Best At**:  
+  - **Backend**: Advanced patterns in Express.js  
   - **Frontend**: React Native, Flutter  
 - 💡 **Looking to Collaborate On**: Full-stack projects, API development, and scalable mobile applications  
 - 📧 **Contact Me**: [fady.dekhil@gmail.com](mailto:fady.dekhil@gmail.com)  
@@ -15,13 +15,14 @@ I'm a **Full-Stack Engineer** with a strong focus on backend development, levera
 - **Backend**: Node.js, Express.js, Nest.js, Supabase, PostgreSQL, Firebase  
 - **Frontend/Mobile**: React, React Native, Flutter  
 - **DevOps**: Docker, Render  
-- **Payments**: Stripe Integration  
+- **Payments**: Stripe Integration
+- **Databases**: PostgreSQL, MongoDB
 
-## 🏆 Featured Projects  
-### 1. **Zawaji**  
+## 🏆 Latests Featured Projects  
+### 1. **Zawaji (Web)**  
 - **Description**: A platform to help Muslims find life partners while adhering to Islamic guidelines.  
-- **Role**: Backend Developer  
-- **Technologies**: Supabase, Express.js, TypeScript, PostgreSQL  
+- **Role**: FullStack Developer  
+- **Technologies**: Next.js, Supabase, Express.js, TypeScript, PostgreSQL  
 
 ### 2. **Knowlepsy**  
 - **Description**: An epilepsy management app with AI-driven seizure forecasting and real-time alerts.  
