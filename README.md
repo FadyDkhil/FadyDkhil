@@ -38,8 +38,6 @@ I'm a **Full-Stack Engineer** with a strong focus on backend development, levera
 - **Role**: Backend Developer  
 - **Technologies**: Express.js, TypeScript, PostgreSQL, Firebase  
 
-## 📈 My GitHub Stats  
-![Fady's GitHub stats](https://github-readme-stats.vercel.app/api?username=FadyDkhil&show_icons=true&theme=radical)  
 
 ## 🌍 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/fady-dkhil-841880216/)  
