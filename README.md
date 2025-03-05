@@ -6,7 +6,7 @@ I'm a **Full-Stack Engineer** with a strong focus on backend development, levera
 - 🚀 **Interests**: Full-Stack Engineering with a specialization in Backend Development  
 - 🌱 **What I’m Best At**:  
   - **Backend**: Advanced patterns in Express.js  
-  - **Frontend**: React Native, Next
+  - **Frontend**: React, React Native, Next
 - 💡 **Looking to Collaborate On**: Full-stack projects, API development, and scalable mobile applications  
 - 📧 **Contact Me**: [fady.dekhil@gmail.com](mailto:fady.dekhil@gmail.com)  
 
@@ -26,8 +26,8 @@ I'm a **Full-Stack Engineer** with a strong focus on backend development, levera
 
 ### 2. **Knowlepsy (Mobile)**  
 - **Description**: An epilepsy management app with AI-driven seizure forecasting and real-time alerts.  
-- **Role**: Frontend Developer  
-- **Technologies**: React Native, TypeScript  
+- **Role**: Fullstack Developer  
+- **Technologies**: React Native, Express, TypeScript  
 
 ### 3. **CoVoizz (Mobile)**  
 - **Description**: A car-sharing app facilitating ridesharing in France.  
