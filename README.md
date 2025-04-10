@@ -18,28 +18,6 @@ I'm a **Full-Stack Engineer** with a strong focus on backend development, levera
 - **Payments**: Stripe Integration
 - **Databases**: PostgreSQL, MongoDB
 
-## 🏆 Latests Featured Projects of 2024
-### 1. **Zawaji (Web)**  
-- **Description**: A platform to help Muslims find life partners while adhering to Islamic guidelines.  
-- **Role**: FullStack Developer  
-- **Technologies**: Next.js, Supabase, Express.js, TypeScript, PostgreSQL  
-
-### 2. **Knowlepsy (Mobile)**  
-- **Description**: An epilepsy management app with AI-driven seizure forecasting and real-time alerts.  
-- **Role**: Fullstack Developer  
-- **Technologies**: React Native, Express, TypeScript  
-
-### 3. **CoVoizz (Mobile)**  
-- **Description**: A car-sharing app facilitating ridesharing in France.  
-- **Role**: Backend Developer  
-- **Technologies**: Express.js, TypeScript, PostgreSQL, Firebase, Stripe  
-
-### 4. **One Take (Mobile)**  
-- **Description**: A social media app for sharing photo-based moments in real time.  
-- **Role**: Backend Developer  
-- **Technologies**: Express.js, TypeScript, PostgreSQL, Firebase  
-
-
 ## 🌍 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/fady-dkhil-841880216/)  
 - [GitHub Repositories](https://github.com/FadyDkhil)  
