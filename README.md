@@ -11,8 +11,8 @@ I'm a **Full-Stack Engineer** with a strong focus on backend development, levera
 - 📧 **Contact Me**: [fady.dekhil@gmail.com](mailto:fady.dekhil@gmail.com)  
 
 ## 🛠️ Tech Stack  
-- **Languages**: JavaScript, TypeScript, Swift  
-- **Backend**: Node.js, Express.js, Nest.js, Supabase, PostgreSQL, Firebase  
+- **Languages**: JavaScript, TypeScript  
+- **Backend**: Node.js, Express.js, Nest.js, Supabase, Firebase  
 - **Frontend/Mobile**: Next, React, React Native, Flutter  
 - **DevOps**: Docker, Render  
 - **Payments**: Stripe Integration
